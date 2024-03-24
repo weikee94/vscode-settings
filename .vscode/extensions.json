@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        // themes & icons
+        "antfu.icons-carbon",
+
+        // must have
+        "Github.copilot",
+        "streetsidesoftware.code-spell-checker",
+
+        // good to have
+        "naumovs.color-highlight",
+    ]
+}
