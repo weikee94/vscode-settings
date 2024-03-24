@@ -1,0 +1,9 @@
+{
+    // ====== Visual ======
+    "editor.fontFamily": "Input Mono, monospace",
+    "editor.lineNumbers": "interval",
+    "editor.wordWrap": "on",
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "icons-carbon",
+    "workbench.colorTheme": "Visual Studio Dark",
+}
